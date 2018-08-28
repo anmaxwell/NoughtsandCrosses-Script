@@ -130,3 +130,6 @@ def game_on():
             nextplayer = 1
 
     print("Game over")
+
+if __name__ == "__main__":
+    game_on()
